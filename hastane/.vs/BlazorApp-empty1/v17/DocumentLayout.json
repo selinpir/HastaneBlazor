@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\BlazorApp-empty1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\BlazorApp-empty1.Shared.csproj|d:\\masaustu_yedek\\github\\blazorapp-empty1\\blazorapp-empty1\\shared\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\BlazorApp-empty1.Shared.csproj|solutionrelative:blazorapp-empty1\\shared\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\BlazorApp-empty1.Client.csproj|d:\\masaustu_yedek\\github\\blazorapp-empty1\\blazorapp-empty1\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\BlazorApp-empty1.Client.csproj|solutionrelative:blazorapp-empty1\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\BlazorApp-empty1\\BlazorApp-empty1\\Client\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\App.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\BlazorApp-empty1\\BlazorApp-empty1\\Client\\App.razor",
+              "RelativeToolTip": "BlazorApp-empty1\\Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:15:39.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\BlazorApp-empty1\\BlazorApp-empty1\\Shared\\Doctor.cs",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Shared\\Doctor.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\BlazorApp-empty1\\BlazorApp-empty1\\Shared\\Doctor.cs",
+              "RelativeToolTip": "BlazorApp-empty1\\Shared\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:22:55.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
