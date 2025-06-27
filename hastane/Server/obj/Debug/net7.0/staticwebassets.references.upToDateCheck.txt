@@ -1,0 +1,6 @@
+D:\masaustu_yedek\GITHUB\BlazorApp-empty1\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Client\obj\Debug\net7.0\staticwebassets.build.json

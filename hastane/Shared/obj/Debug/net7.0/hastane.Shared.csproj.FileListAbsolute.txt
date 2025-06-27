@@ -1,0 +1,14 @@
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\bin\Debug\net7.0\hastane.Shared.deps.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\bin\Debug\net7.0\hastane.Shared.runtimeconfig.json
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\bin\Debug\net7.0\hastane.Shared.dll
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\bin\Debug\net7.0\hastane.Shared.pdb
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.csproj.AssemblyReference.cache
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.AssemblyInfoInputs.cache
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.AssemblyInfo.cs
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.csproj.CoreCompileInputs.cache
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.dll
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\refint\hastane.Shared.dll
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.pdb
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\hastane.Shared.genruntimeconfig.cache
+D:\masaustu_yedek\GITHUB\Hastane\BlazorApp-empty1\Shared\obj\Debug\net7.0\ref\hastane.Shared.dll
