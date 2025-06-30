@@ -1,6 +1,6 @@
 using hastane.Server.Context2;
 //using hastane.Server.Helper;
-//using hastane.Server.Services.ForAuth;
+using hastane.Server.Services.ForAuth;
 //using hastane.Server.Services.ForDoctor;
 //using hastane.Server.Services.ForMeet;
 //using hastane.Server.Services.ForPoliclinic;
@@ -20,7 +20,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-//builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 //builder.Services.AddScoped<IPoliclinicService, PoliclinicService>();
 //builder.Services.AddScoped<IDoctorService, DoctorService>();
 //builder.Services.AddScoped<IMeetService, MeetService>();

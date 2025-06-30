@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g8FpRYzuPnc=",
+  "dgSpecHash": "Saj806Xydfo=",
   "success": true,
-  "projectFilePath": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+  "projectFilePath": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\selin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

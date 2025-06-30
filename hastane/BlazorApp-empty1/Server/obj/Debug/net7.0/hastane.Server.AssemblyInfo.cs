@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hastane.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005551096a832145381b527822dda9003e242fa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("hastane.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hastane.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

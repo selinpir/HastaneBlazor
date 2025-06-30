@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\Hastane\\",
+  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|solutionrelative:blazorapp-empty1\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\shared\\hastane.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|solutionrelative:blazorapp-empty1\\shared\\hastane.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|solutionrelative:blazorapp-empty1\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\client\\hastane.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|solutionrelative:blazorapp-empty1\\client\\hastane.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\server\\hastane.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|solutionrelative:blazorapp-empty1\\server\\hastane.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|solutionrelative:blazorapp-empty1\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\server\\context2\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95949181-7471-410B-A79D-FAB06938CB3B}|BlazorApp-empty1\\Server\\hastane.Server.csproj|solutionrelative:blazorapp-empty1\\server\\context2\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|solutionrelative:blazorapp-empty1\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Shared\\hastane.Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBDA16AB-50A7-442F-BD87-3C0E625FF5B8}|BlazorApp-empty1\\Client\\hastane.Client.csproj|solutionrelative:blazorapp-empty1\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\hastane.Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\hastane.Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\shared\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|solutionrelative:blazorapp-empty1\\shared\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\hastane.Client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Client\\hastane.Client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|d:\\masaustu_yedek\\github\\hastane\\blazorapp-empty1\\shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9DEFF7-AFB2-4415-8A11-AE0C0F084653}|BlazorApp-empty1\\Shared\\hastane.Shared.csproj|solutionrelative:blazorapp-empty1\\shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Client\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Context2\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\Context2\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Shared\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\ServiceResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp-empty1\\Shared\\ServiceResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,170 +68,156 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20250627120846_Hm.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
               "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
               "RelativeToolTip": "BlazorApp-empty1\\Server\\Migrations\\20250627120846_Hm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:08:47.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T12:08:47.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\appsettings.json",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\appsettings.json",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\appsettings.json",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\appsettings.json",
               "RelativeToolTip": "BlazorApp-empty1\\Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-27T12:07:39.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-27T12:07:14.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250627120615_Ok.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
-              "RelativeToolTip": "BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:06:15.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T12:07:39.275Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "hastane.Shared",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
-              "RelativeToolTip": "BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorApp-empty1\\Server\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-27T12:04:34.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "hastane.Server",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\hastane.Server.csproj",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\hastane.Server.csproj",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\hastane.Server.csproj",
-              "RelativeToolTip": "BlazorApp-empty1\\Server\\hastane.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-27T12:04:19.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "hastane.Client",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\hastane.Client.csproj",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\hastane.Client.csproj",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\hastane.Client.csproj",
-              "RelativeToolTip": "BlazorApp-empty1\\Client\\hastane.Client.csproj",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-27T12:03:56.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\_Imports.razor",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\_Imports.razor",
-              "RelativeToolTip": "BlazorApp-empty1\\Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-27T12:02:42.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\Program.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Client\\Program.cs",
-              "RelativeToolTip": "BlazorApp-empty1\\Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:02:35.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
-              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
-              "RelativeToolTip": "BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:58:51.756Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T12:07:14.537Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "20250627120615_Ok.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
+              "RelativeToolTip": "BlazorApp-empty1\\Server\\Migrations\\20250627120615_Ok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:06:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hastane.Shared.csproj",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+              "RelativeToolTip": "BlazorApp-empty1\\Shared\\hastane.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T12:04:34.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hastane.Server.csproj",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\hastane.Server.csproj",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\hastane.Server.csproj",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\hastane.Server.csproj",
+              "RelativeToolTip": "BlazorApp-empty1\\Server\\hastane.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T12:04:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hastane.Client.csproj",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\hastane.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\hastane.Client.csproj",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\hastane.Client.csproj",
+              "RelativeToolTip": "BlazorApp-empty1\\Client\\hastane.Client.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T12:03:56.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\_Imports.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp-empty1\\Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T12:02:42.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Program.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Client\\Program.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Client\\Program.cs",
+              "RelativeToolTip": "BlazorApp-empty1\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:02:35.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
+              "RelativeToolTip": "BlazorApp-empty1\\Server\\Context2\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:58:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Program.cs",
               "RelativeDocumentMoniker": "BlazorApp-empty1\\Server\\Program.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Server\\Program.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Server\\Program.cs",
               "RelativeToolTip": "BlazorApp-empty1\\Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:49:09.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T11:49:09.158Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\User.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\User.cs",
               "RelativeDocumentMoniker": "BlazorApp-empty1\\Shared\\User.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\User.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\User.cs",
               "RelativeToolTip": "BlazorApp-empty1\\Shared\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:32:52.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T11:32:52.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\ServiceResponse.cs",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "BlazorApp-empty1\\Shared\\ServiceResponse.cs",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\Hastane\\BlazorApp-empty1\\Shared\\ServiceResponse.cs",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\HastaneBlazor\\hastane\\BlazorApp-empty1\\Shared\\ServiceResponse.cs",
               "RelativeToolTip": "BlazorApp-empty1\\Shared\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:31:45.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T11:31:45.315Z"
             }
           ]
         }
